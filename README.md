@@ -1,6 +1,5 @@
 # JScoloring
 <h2 align="center">Online coloring pages</h2>
-<p>An easy way to organize the reception and processing of online orders. Convenient and simple menu editor, maximum 9 sections each with up to 100 menu items. Integration with an existing site is possible.</p>
 <h2>Technology stack</h2>
 <h3>GSAP, jQuery</h3>
 <h2>Installation</h2>
